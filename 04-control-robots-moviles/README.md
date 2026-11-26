@@ -1,6 +1,6 @@
 # 04 · Modelado y control de robots móviles
 
-📄 [Guía](guia.pdf) · 📝 [Informe Parte 5: ROS 2 Jazzy + Gazebo](informe-parte5-ros2-gazebo.pdf) · Corke, capítulo 4
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · 📝 [Informe Parte 5: ROS 2 Jazzy + Gazebo](informe-parte5-ros2-gazebo.pdf) · Corke, capítulo 4
 
 Modelos cinemáticos de robots móviles (tipo bicicleta y diferencial) y controladores para **ir a un punto**, **seguir una línea** y **seguir una trayectoria (Pure Pursuit)**, primero en Python y luego en ROS 2.
 

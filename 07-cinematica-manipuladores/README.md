@@ -1,6 +1,6 @@
 # 07 · Cinemática de manipuladores robóticos
 
-📄 [Guía](guia.pdf) · Corke, capítulo 7
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · Corke, capítulo 7
 
 **Herramientas:** Python, Robotics Toolbox for Python, NumPy, Matplotlib
 

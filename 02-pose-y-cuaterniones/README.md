@@ -1,6 +1,6 @@
 # 02 · Representación de pose y cuaterniones en ROS 2
 
-📄 [Guía](guia.pdf) · Corke, capítulo 2
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · Corke, capítulo 2
 
 **Herramientas:** ROS 2, TF2, RViz, SciPy
 

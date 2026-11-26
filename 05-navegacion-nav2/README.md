@@ -1,6 +1,6 @@
 # 05 · Navegación de robots móviles: de lo reactivo a Nav2
 
-📄 [Guía](guia.pdf) · 📝 [Informe Parte E](informe-nav2-ros2.docx) · Corke, capítulo 5
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · 📝 [Informe Parte E](informe-nav2-ros2.docx) · Corke, capítulo 5
 
 La guía recorre navegación reactiva, Bug2, planificación con A* sobre mapas de ocupación y navegación autónoma con Nav2. El informe documenta la **Parte E**, en ROS 2 Jazzy con Gazebo y TurtleBot3 Waffle.
 

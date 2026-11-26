@@ -20,12 +20,25 @@ Las guías siguen el texto de Peter Corke, *Robotics, Vision and Control* (Pytho
 | 07 | [Cinemática de manipuladores](07-cinematica-manipuladores/) | ✅ | — | — |
 | — | [Proyecto: Quadrotor + TurtleBot 3 cooperativos](proyecto-quadrotor-turtlebot3/) | — | Avance | — |
 
-Cada carpeta tiene un `README.md` con el resumen del laboratorio, la guía (`guia.pdf`), el informe entregado si existe, y en `src/` los scripts que se usaron.
+Cada carpeta tiene un `README.md` con el resumen del laboratorio, la guía (`guia.pdf`, escrita en Typst en `guia.typ`), el informe entregado si existe, y en `src/` los scripts que se usaron.
+
+## Guías
+
+Las guías son una versión propia de cada práctica: explicaciones, diagramas y código reescritos y corregidos (por ejemplo, el sector frontal del LiDAR o el uso de `TwistStamped` en Jazzy). Todas comparten la plantilla [`plantilla/robotica.typ`](plantilla/robotica.typ).
+
+Para regenerar un PDF después de editar el `.typ` (necesita [Typst](https://typst.app)):
+
+```bash
+typst compile --root . 04-control-robots-moviles/guia.typ
+# o todas a la vez
+for d in 0*/; do typst compile --root . "$d/guia.typ"; done
+```
 
 ## Estructura
 
 ```
 robotica/
+├── plantilla/robotica.typ      ← estilo común de las guías
 ├── 00-intro-ros2/
 ├── 02-pose-y-cuaterniones/
 ├── 03-movimiento-y-trayectorias/

@@ -1,6 +1,6 @@
 # 06 · Localización y mapeo
 
-📄 [Guía](guia.pdf) · 📝 [Informe Partes 1–4](informe-localizacion-slam.pdf) · Corke, capítulo 6
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · 📝 [Informe Partes 1–4](informe-localizacion-slam.pdf) · Corke, capítulo 6
 
 Simulaciones en Python con Robotics Toolbox (no requieren ROS 2). Cada parte agrega una pieza al problema de saber dónde está el robot.
 

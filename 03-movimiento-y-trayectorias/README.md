@@ -1,6 +1,6 @@
 # 03 · Movimiento, velocidad y trayectorias en ROS 2
 
-📄 [Guía](guia.pdf) · Corke, capítulo 3
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ) · Corke, capítulo 3
 
 **Herramientas:** ROS 2 (Humble o Jazzy), TF2, RViz, NumPy, SciPy
 

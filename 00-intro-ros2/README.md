@@ -1,6 +1,6 @@
 # 00 · Introducción a ROS 2: mini INS
 
-📄 [Guía](guia.pdf)
+📄 [Guía (PDF)](guia.pdf) · [fuente Typst](guia.typ)
 
 Primer contacto con ROS 2 (Jazzy/Humble) y RViz: se crea un nodo en Python que funciona como un sistema de navegación inercial mínimo.
 
